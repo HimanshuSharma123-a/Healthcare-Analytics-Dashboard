@@ -41,8 +41,3 @@ This dashboard offers valuable insights into healthcare metrics:
 - **Departmental Referrals**: Knowing the distribution of cases across departments aids in optimizing departmental workloads and improving patient care.
 - **Financial Metrics**: The average admission deposit and available extra rooms provide a snapshot of the hospital's financial health and resource availability.
 
-```plaintext
-# Clone this repository
-git clone https://github.com/yourusername/Healthcare-Analytics-Dashboard.git
-
-# Open the Tableau file in Tableau Desktop
