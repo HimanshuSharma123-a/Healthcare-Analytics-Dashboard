@@ -1,4 +1,4 @@
-# Healthcare Analytics Dashboard
+# Healthcare Analytics Dashboard Tableau
 ![Dashboard Image](https://github.com/HimanshuSharma123-a/Healthcare-Analytics-Dashboard/blob/main/Healthcare%20Dashboard%20.png)
 
 ## Dataset
