@@ -1,5 +1,5 @@
 # Healthcare Analytics Dashboard
-![Dashboard Image](path/to/your/image.png)
+![Dashboard Image](https://github.com/HimanshuSharma123-a/Healthcare-Analytics-Dashboard/blob/main/Healthcare%20Dashboard%20.png)
 ## Overview
 
 This Healthcare Analytics Dashboard provides a comprehensive overview of various healthcare metrics. It is designed to assist healthcare administrators and professionals in making informed decisions based on the data presented. The dashboard is divided into several sections, each presenting different types of data visualizations and statistics relevant to healthcare management.
